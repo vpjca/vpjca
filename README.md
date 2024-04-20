@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Vishnu:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech         
 👩🏻‍🎓 Studying Computer Science at sree chitra thirunal college of engineering, thiruvananthapuram        
 🔭I'm Currently working on building apps                         
